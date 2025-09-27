@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Misión IA",
+  "description": "Una aplicación para ayudarte a documentar, presentar y demostrar los ejercicios de tu bootcamp de IA, esperando la información completa para activar sus funciones.",
+  "requestFramePermissions": []
+}
