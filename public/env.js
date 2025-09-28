@@ -5,6 +5,6 @@
 window.process = {
   env: {
     // REEMPLAZA "TU_API_KEY_AQUI" CON TU CLAVE REAL
-    API_KEY: "TU_API_KEY_AQUI",
+    API_KEY: "AIzaSyBrJU4m_1Y0Boi8F7RRtsAxOjy1G1Wj1b4",
   },
 };
